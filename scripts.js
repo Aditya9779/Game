@@ -1,5 +1,5 @@
-let p1Name = "Aditya";
-let p2Name = "Shivam";
+let p1Name = "System";
+let p2Name = "HeroHeraLal";
 function getPokemon(){
         fetch("https://pokeapi.co/api/v2/pokemon/")
         .then((response)=> response.json())
